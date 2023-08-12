@@ -5,8 +5,8 @@ Jsp Web Project
 https://drive.google.com/file/d/1WfRtKR9SttPc_ignkGSSc2b8G7mUAnyb/view?usp=drive_link<br>
 <br>
 <번개 장터 exerd><br>
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/29242f2d-8cc5-4fa2-b092-5c60251253a5/Untitled.png)<br>
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/52748faf-a75e-4312-967e-f1f0503dd03d/Untitled.png)<br>
+![exerd1](https://github.com/hjin111/bungae/assets/127267658/8a310561-8c38-4d17-8a85-018381770435)<br>
+![exerd2](https://github.com/hjin111/bungae/assets/127267658/5ad89334-9f3f-44d0-9115-cb56419216fe)<br>
 <번개 장터 중요 페이지><br>
 (1) 상품 상세 페이지<br>
 ![상품 상세 페이지](https://github.com/hjin111/bungae/assets/127267658/6926f641-ca20-4588-8165-3d68d33787f9)<br>
